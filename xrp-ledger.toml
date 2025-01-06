@@ -1,0 +1,20 @@
+[[ISSUERS]]
+address = "rLEURSqR4rZgjC3pZMCU1kgdC4yVBTiQyB"
+name = "RLEUR Issuer"
+
+[[TOKENS]]
+issuer = "rLEURSqR4rZgjC3pZMCU1kgdC4yVBTiQyB"
+currency = "RLEUR"
+name = "RLEUR"
+desc = "RLEUR Token"
+icon = "https://strange-ivory-ape.myfilebase.com/ipfs/QmYht1RSDbnMz24SVFibBQ7MsbauvWydFXnw3zCTrpkj6s"
+
+[[TOKENS.WEBLINKS]]
+url = "https://ripple.com/"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/Ripple"
+type = "socialmedia"
+title = "Twitter"
